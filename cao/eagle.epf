@@ -322,7 +322,6 @@ UsedLibrary="/home/grevaill/.eagle/lbr/xilinx-xcv.lbr"
 UsedLibrary="/home/grevaill/.eagle/lbr/zetex.lbr"
 UsedLibrary="/home/grevaill/.eagle/lbr/zilog.lbr"
 UsedLibrary="/usr/share/eagle/lbr/microchip.lbr"
-UsedLibrary="/home/grevaill/Developpement/00-hwdev/rebut-lib/rebut.lbr"
 
 [Win_1]
 Type="Control Panel"
